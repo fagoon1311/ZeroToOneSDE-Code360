@@ -1,0 +1,1 @@
+# Problem - You are given a list of “N” strings A. Your task is to check whether you can form a given target string using a combination of one or more strings of A. You can use any string of A multiple times.
