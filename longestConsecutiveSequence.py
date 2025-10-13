@@ -95,4 +95,4 @@ def lengthOfLongestConsecutiveSequence2(arr, n):
           longest = max(length, longest)
 
   return longest
-  pass
+  
